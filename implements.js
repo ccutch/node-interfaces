@@ -1,0 +1,4 @@
+
+exports.implements = (Class, ...Interfaces) => {
+
+}
